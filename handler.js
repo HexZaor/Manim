@@ -617,7 +617,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Selamat Datang @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sayonara 🥀 @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.send2ButtonImg(id, pp, text, "𝗬𝗼𝗿𝗕𝗼𝘁𝘇", "Script Bot", ".sc", "Tampilan Menu", ".menu", fake, { contextInfo: { externalAdReply :{
+                                this.send2ButtonImg(id, pp, text, "Ans𝗕𝗼𝘁🌚", "Script Bot", ".sc", "Tampilan Menu", ".menu", fake, { contextInfo: { externalAdReply :{
                                 showAdAttribution: true,
                                 mediaUrl: data.sc,
                                 mediaType: 2,
