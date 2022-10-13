@@ -13,7 +13,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 │ • Qris  [Chat OWNER]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/628534824252
+│ > Ingin donasi? Wa.me/6285348242252
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
