@@ -13,5 +13,6 @@ handler.tags = ['anime']
 handler.command = /^(neko)$/i
 
 handler.limit = true
+handler.nsfw = true
 
 module.exports = handler
