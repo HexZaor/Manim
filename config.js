@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey Here
   'https://api.lolhuman.xyz': 'b7fa05fd87b7c3e3147d8622',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
-  'https://pencarikode.xyz': 'pais',
+  'https://pencarikode.xyz': 'paisis',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
